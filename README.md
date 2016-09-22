@@ -1,1 +1,1 @@
-# minton1.6plugins
+# minton 1.6 plugins
